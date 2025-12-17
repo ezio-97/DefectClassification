@@ -3,3 +3,4 @@ ultralytics
 kagglehub
 sklearn
 sahi
+yolov5
