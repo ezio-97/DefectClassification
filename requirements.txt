@@ -1,6 +1,6 @@
 pandas
 ultralytics
 kagglehub
-sklearn
+scikit-learn
 sahi
 yolov5
