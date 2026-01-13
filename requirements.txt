@@ -4,3 +4,4 @@ kagglehub
 scikit-learn
 sahi
 yolov5
+torch-directml

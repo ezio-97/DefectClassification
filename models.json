@@ -1,0 +1,9 @@
+{
+  "model_dir": "C:\\Users\\Florian Caspar\\Desktop\\Desly\\DefectClassification-main\\models",
+  "models": {
+    "yolo5m6u": "C:\\Users\\Florian Caspar\\Desktop\\Desly\\DefectClassification-main\\models\\yolov5m6u.pt",
+    "yolo8m": "C:\\Users\\Florian Caspar\\Desktop\\Desly\\DefectClassification-main\\models\\yolov8m.pt",
+    "yolo8x": "C:\\Users\\Florian Caspar\\Desktop\\Desly\\DefectClassification-main\\models\\yolov8x.pt",
+    "yolo9e": "C:\\Users\\Florian Caspar\\Desktop\\Desly\\DefectClassification-main\\models\\yolov9e.pt"
+  }
+}
