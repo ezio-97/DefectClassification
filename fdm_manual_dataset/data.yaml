@@ -1,0 +1,10 @@
+names:
+  0: Cracking
+  1: Warping
+  2: Stringing
+  3: Layer_shifting
+  4: Off_Platform
+nc: 5
+path: /home/aipc/Desly/DefectClassification/fdm_manual_dataset
+train: images/train
+val: images/val
