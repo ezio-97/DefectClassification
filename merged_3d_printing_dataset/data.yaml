@@ -1,0 +1,7 @@
+path: /home/aipc/Desly/DefectClassification/merged_3d_printing_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 8
+names: ['blobs', 'cracks', 'over_extrusion', 'spaghetti', 'stringing', 'under_extrusion', 'layer_shift', 'warp']
