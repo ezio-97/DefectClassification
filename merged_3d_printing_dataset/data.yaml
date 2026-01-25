@@ -1,4 +1,4 @@
-path: /home/aipc/Desly/DefectClassification/merged_3d_printing_dataset
+path: D:\Backup\WORK\MACH-3D\DefectClassification\merged_3d_printing_dataset
 train: train/images
 val: valid/images
 test: test/images
