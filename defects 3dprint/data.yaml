@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['blobs', 'cracks', 'over_extrusion', 'spaghetti', 'stringing', 'under_extrusion']
+
+roboflow:
+  workspace: desmond-kvhlb
+  project: 3d-printing-failure-detection-emrkn
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/desmond-kvhlb/3d-printing-failure-detection-emrkn/dataset/1

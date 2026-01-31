@@ -1,0 +1,14 @@
+path: D:\Backup\WORK\MACH-3D\DefectClassification\FINAL_MERGED_DATASET
+train: train/images
+val: valid/images
+test: test/images
+nc: 8
+names:
+- blobs
+- cracks
+- over_extrusion
+- spaghetti
+- stringing
+- under_extrusion
+- layer_shift
+- warp
